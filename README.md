@@ -43,10 +43,6 @@ create an account in https://huggingface.co/ website and create a access token f
 
 A docker container has been built with the above installation steps pull it from the docker hub: 
 
-**netstratumit/netstratum:transcription**
-
-**docker pull netstratumit/netstratum:transcription**
-
 
 =============================================
 
